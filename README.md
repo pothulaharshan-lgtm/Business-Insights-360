@@ -11,7 +11,7 @@ Here is the report link (https://app.powerbi.com/view?r=eyJrIjoiOGFhYzFhMjItYzli
 5) Supply Chain View - Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.
 6) Executive View - Specially for executives consolidating top insights from all the business dimensions.
 7) Support - For Solving the issues.
-## Technical :
+## Technical Skills:
 - [x]	Data Analysis
 - [x] DAX Measures
 - [x] Data Transformation
